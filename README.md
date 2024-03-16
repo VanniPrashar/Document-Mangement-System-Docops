@@ -25,8 +25,7 @@ Then for running the backend:
 
 For running the Frontend:
 `yarn && yarn run dev`
-**NOTE**: Ensure latest version of node and yarn
-
+**NOTE**: Ensure latest version of node and yarn while running the above command
 
 
 
